@@ -29,5 +29,7 @@ To modify the parameters of the algorithms, use the file create_scripts.py:
 
 After executing ./run.sh, scripts in the "scripts" folder are executed. The results are saved in the "results" and "results/confusion" folder.
 
-
-Ma 2017: Ma, Shuangxun, and Ruisheng Zhang. "PU-LP: A novel approach for positive and unlabeled learning by label propagation." 2017 IEEE International Conference on Multimedia & Expo Workshops (ICMEW). IEEE, 2017.
+References:
+1. Ma 2017: Ma, Shuangxun, and Ruisheng Zhang. "PU-LP: A novel approach for positive and unlabeled learning by label propagation." 2017 IEEE International Conference on Multimedia & Expo Workshops (ICMEW). IEEE, 2017.
+2. Monteiro, Rafael A., et al. "Contributions to the study of fake news in portuguese: New corpus and automatic detection results." International Conference on Computational Processing of the Portuguese Language. Springer, Cham, 2018.
+3. Shu, Kai, et al. "Fakenewsnet: A data repository with news content, social context, and spatiotemporal information for studying fake news on social media." Big Data 8.3 (2020): 171-188. 
