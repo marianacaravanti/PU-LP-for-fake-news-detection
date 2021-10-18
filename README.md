@@ -22,7 +22,7 @@ The second collection, Fake.BR (https://github.com/roneysco/Fake.BR-Corpus), is 
 The third news collection, also in Portuguese, was the result of a collection on fact-checking news - AosFatos (https://aosfatos.org/noticias/), Agência Lupa (https://piaui.folha.uol.com.br/lupa/), Fato ou Fake (https://g1.globo.com/fato-ou-fake/), UOL Confere (https://noticias.uol.com.br/confere/) and G1 - Política (https://g1.globo.com/politica/). The collection contains 2,168 news, in which 1,124 are real and 1,044 are fake, and was collected during our project's execution. Some terms that were added after the checking process were removed since they are correlated with the classes: "fato", "fake", "verdadeiro", "falso", "#fake", "verificamos", "montagem", "erro" e "checagem" (in English: fact, fake, real, check, and montage respectively).
 
 
-# PU-LP
+# Proposed Approach: PU-LP for Fake News Detection
 
 ![methodology](https://github.com/marianacaravanti/PU-LP-for-fake-news-detection/blob/main/methodology.png)
 
