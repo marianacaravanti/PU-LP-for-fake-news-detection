@@ -24,27 +24,27 @@ The third news collection, also in Portuguese, was the result of a collection on
 
 # Proposed Approach: PU-LP for Fake News Detection
 
-![methodology](https://github.com/marianacaravanti/PU-LP-for-fake-news-detection/blob/main/methodology.png)
+![methodology](https://github.com/marianacaravanti/PU-LP-for-fake-news-detection/blob/main/images/methodology.png)
 
 # Features of each news Dataset
 
 Summary of the news collections used in the experimental evaluation:
 
-![datasets](https://github.com/marianacaravanti/PU-LP-for-fake-news-detection/blob/main/datasets.png)
+![datasets](https://github.com/marianacaravanti/PU-LP-for-fake-news-detection/blob/main/images/datasets.png)
 
 # Results
 
 Results using Bag-of-Words as representation model, comparing the proposed approach, the traditional PUL and OCL algorithms and the binary semi-supervised reference model for detecting fake news. HM denotes the use of homogeneous networks algorithms and HT denotes the use of heterogeneous networks algorithms. 10%, 20% e 30% indicate the percentage of fake news used in the labeled set. For our reference algorithm (BL), the labeled set also has the same percentage of real news. The best results considering PUL and OCL algorithms are highlighted in grey.
 
-![results_bow](https://github.com/marianacaravanti/PU-LP-for-fake-news-detection/blob/main/results_BoW.png)
+![results_bow](https://github.com/marianacaravanti/PU-LP-for-fake-news-detection/blob/main/images/results_BoW.png)
 
 Results using Doc2Vec as representation model, comparing the proposed approach, the traditional PUL and OCL algorithms and the binary semi-supervised reference model for detecting fake news. HM are homogeneous networks algorithms and HT are heterogeneous networks algorithms. 10%, 20% e 30% indicate the percentage of fake news used in the labeled set. For our reference algorithm (BL), the labeled set also has the same percentage of real news. The best results considering PUL and OCL algorithms are highlighted in grey.
 
-![results_d2v](https://github.com/marianacaravanti/PU-LP-for-fake-news-detection/blob/main/results_D2V.png)
+![results_d2v](https://github.com/marianacaravanti/PU-LP-for-fake-news-detection/blob/main/images/results_D2V.png)
 
 Average ranking and standard deviation of the OCL, PUL and binary (BIN) algorithms, considering 10%, 20% and 30% of labeled data for the interest-F1 results. Last column presents the mean of the average rankings. The best performances considering PUL and OCL algorithms are highlighted in grey.
 
-![average ranking](https://github.com/marianacaravanti/PU-LP-for-fake-news-detection/blob/main/average%20ranking.png)
+![average ranking](https://github.com/marianacaravanti/PU-LP-for-fake-news-detection/blob/main/images/average%20ranking.png)
 
 # References
 [PU-LP]: Ma, S., Zhang, R.: Pu-lp: A novel approach for positive and unlabeled learning by label propagation. In: 2017 IEEE International Conference on Multimedia & Expo
