@@ -14,8 +14,7 @@ Fake news can rapidly spread through internet users and can deceive a large audi
 
 # News Collections 
 
-We evaluate the PUL and OCL algorithms considering balanced and unbalanced collections, news in Portuguese and in English, and collections containing only one subject or multiple subjects. The first collection was acquired from FakeNewsNet repository (https://github.com/KaiDMML/FakeNewsNet - Shu et al., 2020), which contains news of famous people fact-checked by the GossipCop (https://www.gossipcop.com/) website. The dataset has 5,298 real news and 1,705 fake news.  
-FakeNewsNet is the collection with the greatest unbalance in the distribution of classes. 
+We evaluate the PUL and OCL algorithms considering balanced and unbalanced collections, news in Portuguese and in English, and collections containing only one subject or multiple subjects. The first collection was acquired from FakeNewsNet repository (https://github.com/KaiDMML/FakeNewsNet - Shu et al., 2020), which contains news of famous people fact-checked by the GossipCop (https://www.gossipcop.com/) website. The dataset has 5,298 real news and 1,705 fake news. FakeNewsNet is the collection with the greatest unbalance in the distribution of classes. 
 
 The second collection, Fake.BR (https://github.com/roneysco/Fake.BR-Corpus), is the first reference corpus in Portuguese for fake news detection. The news was manually collected and labeled (Silva, et al. 2020). All of them have a textual format, available in their original sizes, and truncated. The truncation in the texts was carried out to have a text dataset with an approximate number of words, avoiding bias in the learning process. The corpus consists of 7,200 news items, distributed in 6 categories: politics 58%, TV and celebrities (21.4%), society and daily life (17.7%), science and technology (1.5%), economy (0.7%) and religion (0.7%). This corpus contains 3,600 fake news and 3,600 true news. 
 
